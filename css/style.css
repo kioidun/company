@@ -1,6 +1,11 @@
+.cs-nav {
+  background-color: rgba(255, 255, 255, 0.8);
+}
 .navbar {
   border-bottom: #ff0000 3px solid;
-  opacity: 0.8;
+}
+.logocss {
+  opacity: none;
 }
 .navbar .nav-link {
   font-size: 14px;
